@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+   font-family: Arial, sans-serif;  
+}
+
+
+header{
+    background-color: rgb(99, 155, 222);
+    border: 10px;
+    border-radius: 2px;
+    width: 1500px;
+   word-spacing: 40px;
+    padding: 10px;
+  text-align: center;
+}
+.navigation{
+    background-color: rgb(225, 227, 104);
+    border: 20px;
+    border-radius: 5px;
+    width: 400px;
+    padding: 20px;
+ 
+}
+.welcome{
+    text-emphasis-color: white;
+    text-align: right;
+}
+.image-container{
+    display: flex;
+   
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+.card-container{
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+}
+h1{
+    text-decoration: dotted;
+    text-shadow: 10px;
+    text-emphasis-color: black;
+}
+.buttons{
+    background-color: rgb(109, 230, 72);
+    border: 0cm;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+   font-size: small;
+   
+}
